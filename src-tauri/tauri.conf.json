@@ -33,7 +33,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.youtube.dev",
+      "identifier": "com.youtube-cli.dev",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
@@ -59,26 +59,29 @@
     },
     "windows": [
       {
-        "width": 1500,
-        "height": 700,
-        "fullscreen": false,
-        "resizable": true,
         "title": "YouTube",
+        "width": 1500,
+        "height": 750,
+        "url": "https://www.youtube.com",
+        "fullscreen": false,
+        "focus": true,
+        "resizable": true,
         "decorations": true,
         "center": true,
-        "url": "https://www.youtube.com",
         "visible": false
       },
       
       {
         "width": 450,
         "height": 200,
-        "decorations": false,
         "url": "splashscreen.html",
         "label": "splashscreen",
+        "fullscreen": false,
+        "focus": true,
+        "resizable": false,
+        "decorations": false,
         "center": true,
-        "skipTaskbar": false,
-        "resizable": false
+        "skipTaskbar": false
       }
     ]
   }
