@@ -21,6 +21,10 @@ An open-source YouTube client for Windows (Planning to distribute to other opera
 - Block redirecting links.
 - Decrease zoom level.
 - Integrate [SponsorBlock](https://sponsor.ajay.app) with the client.
+- Make fullscreen fully integrate with device.
+- Make Picture-in-Picture (PiP) available
+
+and more optimizations...
 
 ## Bugs
 If you have found any bugs in the client or if you have suggestions, please feel free to reach any of the links below.
