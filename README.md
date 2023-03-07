@@ -1,4 +1,4 @@
-# YouTube-CLI [Work In Progress]
+# YouTube-CLI [Beta]
 
 An open-source YouTube client for Windows (Planning to distribute to other operating systems).
 
