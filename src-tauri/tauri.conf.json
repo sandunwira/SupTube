@@ -20,7 +20,8 @@
     },
     "bundle": {
       "active": true,
-      "category": "DeveloperTool",
+      "publisher": "Sandun Wiratunga",
+      "category": "Entertainment",
       "copyright": "",
       "deb": {
         "depends": []
@@ -34,7 +35,7 @@
         "icons/icon.ico"
       ],
       "identifier": "com.youtube-cli.dev",
-      "longDescription": "",
+      "longDescription": "An unofficial client for YouTube",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -43,7 +44,7 @@
         "signingIdentity": null
       },
       "resources": [],
-      "shortDescription": "",
+      "shortDescription": "An unofficial client for YouTube",
       "targets": "all",
       "windows": {
         "certificateThumbprint": null,
