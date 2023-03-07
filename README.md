@@ -4,12 +4,14 @@ An open-source YouTube client for Windows (Planning to distribute to other opera
 
 ![Screenshot 2023-03-07 170540](https://user-images.githubusercontent.com/79461263/223411144-6e31c09f-34b2-41c0-b4f3-fad7ff4fed81.png)
 
-### Availability
+## [Releases](https://github.com/sandunwira/YouTube-CLI/releases)
+
+## Availability
 - :white_check_mark: Windows
 - :negative_squared_cross_mark: Linux
 - :negative_squared_cross_mark: MacOS
 
-### Features
+## Features
 - Use less resources.
   - Because of [Tauri](https://tauri.app) (Rust + WebView), users don't need to install anything extra to use this client since WebView is pre-installed with new Windows.
 - Pre-installed [AdGuard](https://adguard.com).
@@ -20,7 +22,7 @@ An open-source YouTube client for Windows (Planning to distribute to other opera
 - Decrease zoom level.
 - Integrate [SponsorBlock](https://sponsor.ajay.app) with the client.
 
-### Bugs
+## Bugs
 If you have found any bugs in the client or if you have suggestions, please feel free to reach any of the links below.
 - [GitHub Issue](https://github.com/sandunwira/YouTube-CLI/issues)
 - [Email](mailto:smswiratunga@students.nsbm.ac.lk)
