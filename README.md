@@ -10,9 +10,9 @@ An open-source YouTube client for Windows (Planning to distribute to other opera
 
 ### Features
 - Use less resources.
-  Because of [Tauri](https://tauri.app) (Rust + WebView), users don't need to install anything extra to use this client since WebView is pre-installed with new Windows.
+  - Because of [Tauri](https://tauri.app) (Rust + WebView), users don't need to install anything extra to use this client since WebView is pre-installed with new Windows.
 - Pre-installed [AdGuard](https://adguard.com).
-  Client comes with AdGuard pre-installed. So users can watch videos without skipping ads.
+  - Client comes with AdGuard pre-installed. So users can watch videos without skipping ads.
 
 ### Features to be implemented
 - Block redirecting links.
