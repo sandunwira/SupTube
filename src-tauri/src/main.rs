@@ -13,9 +13,8 @@ fn main() {
 
       // disable the F5 key
       main_window.eval("window.addEventListener('keydown', function(e) {if (e.keyCode == 116) { e.preventDefault(); }});").unwrap();
+      // disable developer options
       main_window.eval("window.addEventListener('keydown', function(e) {if (e.ctrlKey && e.shiftKey && e.keyCode == 73) { e.preventDefault(); }});").unwrap();
-      Ok::<(), std::io::Error>(());
-
       // disable middle-click to open links in new windows
       main_window.eval("window.addEventListener('auxclick', function(e) {if (e.button == 1) { e.preventDefault(); }});").unwrap();
       // disable right click
