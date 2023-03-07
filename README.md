@@ -2,11 +2,12 @@
 
 An open-source YouTube client for Windows (Planning to distribute to other operating systems).
 
+![Screenshot 2023-03-07 125206](https://user-images.githubusercontent.com/79461263/223407331-b4c1c714-298d-439f-abbd-2f4c2aa31fb4.png)
+
 ### Availability
 - :white_check_mark: Windows
 - :negative_squared_cross_mark: Linux
 - :negative_squared_cross_mark: MacOS
-
 
 ### Features
 - Use less resources.
@@ -26,3 +27,4 @@ If you have found any bugs in the client or if you have suggestions, please feel
 - [Instagram](https://instagram.com/sandunwira)
 - [Twitter](https://twitter.com/sandunwira)
 - [LinkedIn](https://www.linkedin.com/in/sandunwiratunga)
+
