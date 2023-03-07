@@ -2,7 +2,7 @@
 
 An open-source YouTube client for Windows (Planning to distribute to other operating systems).
 
-![Screenshot 2023-03-07 125206](https://user-images.githubusercontent.com/79461263/223407331-b4c1c714-298d-439f-abbd-2f4c2aa31fb4.png)
+![Screenshot 2023-03-07 170540](https://user-images.githubusercontent.com/79461263/223411144-6e31c09f-34b2-41c0-b4f3-fad7ff4fed81.png)
 
 ### Availability
 - :white_check_mark: Windows
@@ -27,4 +27,3 @@ If you have found any bugs in the client or if you have suggestions, please feel
 - [Instagram](https://instagram.com/sandunwira)
 - [Twitter](https://twitter.com/sandunwira)
 - [LinkedIn](https://www.linkedin.com/in/sandunwiratunga)
-
