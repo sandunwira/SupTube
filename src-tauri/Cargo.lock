@@ -3197,7 +3197,7 @@ dependencies = [
 
 [[package]]
 name = "youtube-cli"
-version = "1.0.0"
+version = "1.1.0"
 dependencies = [
  "serde",
  "serde_json",

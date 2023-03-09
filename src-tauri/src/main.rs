@@ -11,23 +11,23 @@ fn main() {
       let splashscreen_window = app.get_window("splashscreen").unwrap();
       let main_window = app.get_window("main").unwrap();
 
-      // disable the F5 key
+      // DISABLE THE F5 KEY ==================================================================== //
       main_window.eval("window.addEventListener('keydown', function(e) {if (e.keyCode == 116) { e.preventDefault(); }});").unwrap();
-      // disable developer options
+      // DISABLE DEVELOPER OPTIONS ============================================================= //
       main_window.eval("window.addEventListener('keydown', function(e) {if (e.ctrlKey && e.shiftKey && e.keyCode == 73) { e.preventDefault(); }});").unwrap();
-      // disable middle-click to open links in new windows
+      // DISABLE MIDDLE-CLICK TO OPEN LINKS IN NEW WINDOWS ===================================== //
       main_window.eval("window.addEventListener('auxclick', function(e) {if (e.button == 1) { e.preventDefault(); }});").unwrap();
-      // disable right click
+      // DISABLE RIGHT CLICK =================================================================== //
       main_window.eval("window.addEventListener('contextmenu', function(e) { e.preventDefault(); });").unwrap();
 
-      // we perform the initialization code on a new task so the app doesn't freeze
+      // WE PERFORM THE INITIALIZATION CODE ON A NEW TASK SO THE APP DOESN'T FREEZE ============ //
       tauri::async_runtime::spawn(async move {
-        // initialize your app here instead of sleeping :)
+        // INITIALIZE YOUR APP HERE INSTEAD OF SLEEPING :) ===================================== //
         println!("Initializing...");
         std::thread::sleep(std::time::Duration::from_secs(5));
         println!("Done initializing.");
 
-        // After it's done, close the splashscreen and display the main window
+        // AFTER IT'S DONE, CLOSE THE SPLASHSCREEN AND DISPLAY THE MAIN WINDOW ================= //
         splashscreen_window.close().unwrap();
         main_window.show().unwrap();
       });
