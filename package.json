@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "adguard": "^0.0.0"
+    "adguard": "^0.0.0",
+    "tauri": "^0.14.1"
   }
 }
