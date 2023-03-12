@@ -4,7 +4,7 @@ An open-source YouTube client for Windows (Planning to distribute to other opera
 
 ![Screenshot 2023-03-07 170540](https://user-images.githubusercontent.com/79461263/223411144-6e31c09f-34b2-41c0-b4f3-fad7ff4fed81.png)
 
-## [Releases](https://github.com/sandunwira/YouTube-CLI/releases)
+## [Releases](https://github.com/sandunwira/SupTube/releases)
 
 ## Availability
 - :white_check_mark: Windows
