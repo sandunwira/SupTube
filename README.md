@@ -2,7 +2,9 @@
 
 An open-source YouTube client for Windows (Planning to distribute to other operating systems).
 
-![Screenshot 2023-03-07 170540](https://user-images.githubusercontent.com/79461263/223411144-6e31c09f-34b2-41c0-b4f3-fad7ff4fed81.png)
+
+![Screenshot1](https://user-images.githubusercontent.com/79461263/224725038-90fb9859-4f00-440c-bbb9-ea7e49db7d24.png)
+
 
 ## [Releases](https://github.com/sandunwira/SupTube/releases)
 
@@ -26,10 +28,14 @@ An open-source YouTube client for Windows (Planning to distribute to other opera
 
 and more optimizations...
 
+
+![Screenshot2](https://user-images.githubusercontent.com/79461263/224725126-12af6f0b-8f25-4178-a772-4567419a6445.png)
+
+
 ## Bugs
 If you have found any bugs in the client or if you have suggestions, please feel free to reach any of the links below.
-- [GitHub Issue](https://github.com/sandunwira/YouTube-CLI/issues)
-- [Email](mailto:smswiratunga@students.nsbm.ac.lk)
-- [Instagram](https://instagram.com/sandunwira)
+- [GitHub Issue](https://github.com/sandunwira/SupTube/issues)
+- [Email](mailto:teamsuptube@gmail.com)
+- [Instagram](https://instagram.com/suptubeapp)
 - [Twitter](https://twitter.com/sandunwira)
 - [LinkedIn](https://www.linkedin.com/in/sandunwiratunga)
