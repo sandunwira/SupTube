@@ -1,6 +1,16 @@
-# SupTube [Beta]
+![suptube gh](https://user-images.githubusercontent.com/79461263/224791355-15c93044-85e0-43c9-ab42-b5dee38eb537.png)
 
-An open-source YouTube client for Windows (Planning to distribute to other operating systems).
+
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/sandunwira/SupTube?include_prereleases&style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/sandunwira/SupTube?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/sandunwira/SupTube?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/sandunwira/SupTube/total?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/sandunwira/SupTube?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/sandunwira/SupTube?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/sandunwira/SupTube?style=for-the-badge)
+
+
+### SupTube is an open-source YouTube client for Windows (Planning to distribute to other operating systems).
 
 
 ![Screenshot1](https://user-images.githubusercontent.com/79461263/224725038-90fb9859-4f00-440c-bbb9-ea7e49db7d24.png)
