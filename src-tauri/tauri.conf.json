@@ -7,8 +7,8 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "YouTube-CLI",
-    "version": "1.1.0"
+    "productName": "SupTube",
+    "version": "1.2.0"
   },
   "tauri": {
     "allowlist": {
@@ -34,8 +34,8 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.youtube-cli.dev",
-      "longDescription": "An unofficial client for YouTube",
+      "identifier": "com.suptube.app",
+      "longDescription": "An opensource client for YouTube",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -44,8 +44,11 @@
         "signingIdentity": null
       },
       "resources": [],
-      "shortDescription": "An unofficial client for YouTube",
+      "shortDescription": "An opensource client for YouTube",
       "targets": "all",
+      "appimage": {
+        "bundleMediaFramework": true
+      },
       "windows": {
         "certificateThumbprint": null,
         "digestAlgorithm": "sha256",
@@ -60,7 +63,7 @@
     },
     "windows": [
       {
-        "title": "YouTube",
+        "title": "SupTube",
         "width": 1500,
         "height": 750,
         "url": "https://www.youtube.com",
@@ -73,6 +76,7 @@
       },
       
       {
+        "title": "SupTube",
         "width": 450,
         "height": 200,
         "url": "splashscreen.html",
