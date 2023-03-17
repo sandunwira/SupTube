@@ -16,6 +16,12 @@
       "shell": {
         "all": false,
         "open": true
+      },
+      "window": {
+        "all": false,
+        "print": false,
+        "setFullscreen": true,
+        "setResizable": true
       }
     },
     "bundle": {
@@ -52,7 +58,8 @@
       "windows": {
         "certificateThumbprint": null,
         "digestAlgorithm": "sha256",
-        "timestampUrl": ""
+        "timestampUrl": "",
+        "allowDowngrades": false
       }
     },
     "security": {
