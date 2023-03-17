@@ -6,6 +6,10 @@
 
 use tauri::Manager;
 fn main() {
+  match fix_path_env::fix() {
+    Ok(_) => println!("Path environment variable fixed successfully!"),
+    Err(e) => eprintln!("Error fixing path environment variable: {}", e),
+  }
   tauri::Builder::default()
     .setup(|app| {
       let splashscreen_window = app.get_window("splashscreen").unwrap();

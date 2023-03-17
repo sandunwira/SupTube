@@ -30,6 +30,10 @@
       "category": "Entertainment",
       "copyright": "",
       "deb": {
+        "files": {
+          "/usr/share/README.md": "../README.md",
+          "usr/share/assets": "../assets/"
+        },
         "depends": []
       },
       "externalBin": [],
@@ -66,7 +70,12 @@
       "csp": null
     },
     "updater": {
-      "active": false
+      "active": false,
+      "dialog": true,
+      "windows": {
+        "installMode": "basicUi"
+      },
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDFDMzZFMzBFRTRBRUVFOEEKUldTSzdxN2tEdU0ySEpzUWY3Y1kwN2VaMnNpU1kyZkdnSmNxQng4QmM3MTJmU2ZINjY1a090S3UK"
     },
     "windows": [
       {
