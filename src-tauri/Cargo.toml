@@ -1,6 +1,6 @@
 [package]
 name = "suptube"
-version = "1.2.0"
+version = "1.2.1"
 description = "An unofficial client for YouTube"
 authors = ["you"]
 license = ""
