@@ -59,7 +59,12 @@
         "certificateThumbprint": null,
         "digestAlgorithm": "sha256",
         "timestampUrl": "",
-        "allowDowngrades": false
+        "allowDowngrades": false,
+        "wix": {
+          "language": "en-US",
+          "dialogImagePath": "../src/assets/dialogImage.bmp",
+          "bannerPath": "../src/assets/banner.bmp"
+        }
       }
     },
     "security": {
