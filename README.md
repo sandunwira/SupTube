@@ -1,17 +1,21 @@
-![suptube gh](https://user-images.githubusercontent.com/79461263/224791355-15c93044-85e0-43c9-ab42-b5dee38eb537.png)
+[![suptube gh](https://user-images.githubusercontent.com/79461263/224791355-15c93044-85e0-43c9-ab42-b5dee38eb537.png)](https://github.com/sandunwira/SupTube)
 
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/sandunwira/SupTube?include_prereleases&style=for-the-badge)](https://github.com/sandunwira/SupTube/releases/latest)
 [![GitHub top language](https://img.shields.io/github/languages/top/sandunwira/SupTube?style=for-the-badge)](https://github.com/sandunwira/SupTube)
 [![GitHub Repo stars](https://img.shields.io/github/stars/sandunwira/SupTube?style=for-the-badge)](https://github.com/sandunwira/SupTube/stargazers)
 [![GitHub all releases](https://img.shields.io/github/downloads/sandunwira/SupTube/total?style=for-the-badge)](https://github.com/sandunwira/SupTube/releases)
+[![SourceForge](https://img.shields.io/sourceforge/dt/suptube.svg?style=for-the-badge)](https://sourceforge.net/projects/suptube/files/latest/download)
 [![GitHub](https://img.shields.io/github/license/sandunwira/SupTube?style=for-the-badge)](https://github.com/sandunwira/SupTube/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues-raw/sandunwira/SupTube?style=for-the-badge)](https://github.com/sandunwira/SupTube/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/sandunwira/SupTube?style=for-the-badge)](https://github.com/sandunwira/SupTube/commit/main)
 
 
-### SupTube is an open-source YouTube client for Windows (Planning to distribute to other operating systems).
+<a href="https://sourceforge.net/p/suptube" target="_blank">
+  <img src="https://sourceforge.net/cdn/syndication/badge_img/3612009/oss-users-love-us-white" width="100px">
+</a>
 
+### SupTube is an open-source YouTube client for Windows (Planning to distribute to other operating systems).
 
 ![Screenshot1](https://user-images.githubusercontent.com/79461263/224725038-90fb9859-4f00-440c-bbb9-ea7e49db7d24.png)
 
@@ -19,9 +23,9 @@
 ## [Releases](https://github.com/sandunwira/SupTube/releases)
 
 ## Availability
-- :white_check_mark: Windows
-- :negative_squared_cross_mark: Linux
-- :negative_squared_cross_mark: MacOS
+- [x] Windows
+- [ ] Linux
+- [ ] MacOS
 
 ## Features
 - Use less resources.
@@ -30,11 +34,10 @@
   - ~~Client comes with AdGuard pre-installed. So users can watch videos without skipping ads.~~
 
 ### Features to be implemented
-- Block redirecting links.
-- Decrease zoom level.
-- Integrate [SponsorBlock](https://sponsor.ajay.app) with the client.
-- Make fullscreen fully integrate with device.
-- Make Picture-in-Picture (PiP) available
+- [ ] Block redirecting links.
+- [ ] Integrate [SponsorBlock](https://sponsor.ajay.app) with the client.
+- [ ] Make fullscreen fully integrate with device.
+- [ ] Make Picture-in-Picture (PiP) available
 
 and more optimizations...
 
