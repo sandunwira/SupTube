@@ -1,7 +1,7 @@
 ![suptube gh](https://user-images.githubusercontent.com/79461263/224791355-15c93044-85e0-43c9-ab42-b5dee38eb537.png)
 
 
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/sandunwira/SupTube?include_prereleases&style=for-the-badge)](https://github.com/sandunwira/SupTube/releases)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/sandunwira/SupTube?include_prereleases&style=for-the-badge)](https://github.com/sandunwira/SupTube/releases/latest)
 [![GitHub top language](https://img.shields.io/github/languages/top/sandunwira/SupTube?style=for-the-badge)](https://github.com/sandunwira/SupTube)
 [![GitHub Repo stars](https://img.shields.io/github/stars/sandunwira/SupTube?style=for-the-badge)](https://github.com/sandunwira/SupTube/stargazers)
 [![GitHub all releases](https://img.shields.io/github/downloads/sandunwira/SupTube/total?style=for-the-badge)](https://github.com/sandunwira/SupTube/releases)
