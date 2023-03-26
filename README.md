@@ -29,11 +29,11 @@
 - [ ] MacOS
 
 ## Features
-- Use less resources.
+- **Use less resources.**
   - Because of [Tauri](https://tauri.app) (Rust + WebView), users don't need to install anything extra to use this client since WebView is pre-installed with new Windows.
-- Pre-installed [AdGuard](https://adguard.app).
+- **Pre-installed [AdGuard](https://adguard.app).**
   - Client comes with AdGuard pre-installed. So users can watch videos without skipping ads but might not work everytime due to technical difficulties.
-- Your privacy matters.
+- **Your privacy matters.**
   - You don't need to worry about privacy at all. The app uses official YouTube website to show content so we don't get or store anything related about your personal data.
 
 ### Features to be implemented
