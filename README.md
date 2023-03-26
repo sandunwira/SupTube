@@ -5,7 +5,7 @@
 [![GitHub top language](https://img.shields.io/github/languages/top/sandunwira/SupTube?style=for-the-badge)](https://github.com/sandunwira/SupTube)
 [![GitHub Repo stars](https://img.shields.io/github/stars/sandunwira/SupTube?style=for-the-badge)](https://github.com/sandunwira/SupTube/stargazers)
 [![GitHub all releases](https://img.shields.io/github/downloads/sandunwira/SupTube/total?style=for-the-badge)](https://github.com/sandunwira/SupTube/releases)
-[![SourceForge](https://img.shields.io/sourceforge/dt/suptube.svg?style=for-the-badge)](https://sourceforge.net/projects/suptube/files/latest/download)
+[![SourceForge](https://img.shields.io/sourceforge/dt/suptube.svg?style=for-the-badge)](https://sourceforge.net/projects/suptube/files)
 [![GitHub](https://img.shields.io/github/license/sandunwira/SupTube?style=for-the-badge)](https://github.com/sandunwira/SupTube/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues-raw/sandunwira/SupTube?style=for-the-badge)](https://github.com/sandunwira/SupTube/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/sandunwira/SupTube?style=for-the-badge)](https://github.com/sandunwira/SupTube/commit/main)
