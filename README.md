@@ -10,7 +10,7 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/sandunwira/SupTube?style=for-the-badge)](https://github.com/sandunwira/SupTube/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/sandunwira/SupTube?style=for-the-badge)](https://github.com/sandunwira/SupTube/commit/main)
 
-**[SupTube](https://suptube.repl.co) is a new, lightweight Windows client created to enhance the [YouTube](https://www.youtube.com) experience. The app uses the [Tauri](https://tauri.app) framework, which includes a combination of [Rust](https://rust-lang.org) language and [WebView2](https://learn.microsoft.com/en-us/microsoft-edge/webview2) engine to show YouTube videos. By using the built-in Windows dependencies, the app uses fewer resources, making it an ideal option for those with older or less powerful devices. With a file size of less than 10MB when installed, SupTube is a great choice for those who want a compact, fast-loading app that delivers YouTube video playback without any interruptions.**
+**[SupTube](https://suptube.repl.co) is a lightweight Windows client created to enhance the [YouTube](https://www.youtube.com) experience. The app uses the [Tauri](https://tauri.app) framework, which includes a combination of [Rust](https://rust-lang.org) language and [WebView2](https://learn.microsoft.com/en-us/microsoft-edge/webview2) engine to show YouTube videos.**
 
 
 <a href="https://sourceforge.net/p/suptube" target="_blank">
