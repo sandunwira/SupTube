@@ -22,12 +22,6 @@
         "print": false,
         "setFullscreen": true,
         "setResizable": true
-      },
-      "dialog": {
-        "all": false,
-        "ask": false,
-        "confirm": false,
-        "message": false
       }
     },
     "bundle": {
@@ -77,13 +71,12 @@
       "csp": null
     },
     "updater": {
-      "active": true,
+      "active": false,
       "dialog": true,
-      "endpoints": ["https://github.com/sandunwira/SupTube/releases/download/v{{current_version}}/SupTube_{{current_version}}_{{arch}}_en-US.msi"],
       "windows": {
         "installMode": "basicUi"
       },
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDFDMzZFMzBFRTRBRUVFOEEKUldTSzdxN2tEdU0ySEpzUWY3Y1kwN2VaMnNpU1kyZkdnSmNxQng4QmM3MTJmU2ZINjY1a090S3UK"
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDNDOEFFM0Q2NTE4M0ZGNTUKUldSVi80TlIxdU9LUEliNlFzVE9GY0swYm9rNVEyaFVaRnI2QkdQOGxabzU4eVRYVEg2VXVKZEQK"
     },
     "windows": [
       {
