@@ -17,28 +17,42 @@
   <img src="https://sourceforge.net/cdn/syndication/badge_img/3612009/oss-users-love-us-white" width="100px">
 </a>
 
+<hr>
 
 ![Screenshot1](https://user-images.githubusercontent.com/79461263/224725038-90fb9859-4f00-440c-bbb9-ea7e49db7d24.png)
 
+<hr>
 
-## [Releases](https://github.com/sandunwira/SupTube/releases)
+### [RELEASES](https://github.com/sandunwira/SupTube/releases)
 
-## Availability
+<hr>
+
+### AVAILABILITY
 - [x] Windows
 - [ ] Linux
 - [ ] MacOS
 
-## Features
+<hr>
+
+### FEATURES
 - **Use less resources.**
-  - Because of [Tauri](https://tauri.app) (Rust + WebView), users don't need to install anything extra to use this client since WebView is pre-installed with new Windows.
+  - You don't need to install anything extra to use this client since WebView is pre-installed with new Windows.
 - **Your privacy matters.**
-  - You don't need to worry about privacy at all. The app uses official YouTube website to show content so we don't get or store anything related about your personal data.
+  - The app uses official YouTube website to show content so we don't get or store anything related about your personal data.
 
+<hr>
 
-[![Screenshot2](https://user-images.githubusercontent.com/79461263/224725126-12af6f0b-8f25-4178-a772-4567419a6445.png)](https://youtu.be/KOfhLHyjvnQ)
+![performance](https://user-images.githubusercontent.com/79461263/229302656-ff9561be-2df9-4e30-975c-55936fc39d69.png)
+Link to the [video](https://youtu.be/DZls7EIkbVk).
 
+<hr>
 
-## Feedback
+![Screenshot2](https://user-images.githubusercontent.com/79461263/224725126-12af6f0b-8f25-4178-a772-4567419a6445.png)
+Link to the [video](https://youtu.be/KOfhLHyjvnQ).
+
+<hr>
+
+### FEEDBACK
 If you have found any bugs in the client or if you have suggestions, please feel free to reach any of the links below.
 - [GitHub Issue](https://github.com/sandunwira/SupTube/issues)
 - [Email](mailto:teamsuptube@gmail.com)
