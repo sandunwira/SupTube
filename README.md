@@ -1,4 +1,4 @@
-[![suptube gh](https://user-images.githubusercontent.com/79461263/229285359-c1adcfae-1746-47c0-99e6-40f913ca50ed.png)](https://github.com/sandunwira/SupTube)
+[![suptube gh](https://user-images.githubusercontent.com/79461263/229287978-ec566079-db20-4e86-9131-5d4bc11cadfc.png)](https://github.com/sandunwira/SupTube)
 
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/sandunwira/SupTube?include_prereleases&style=for-the-badge)](https://github.com/sandunwira/SupTube/releases/latest)
