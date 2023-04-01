@@ -35,7 +35,7 @@
   - You don't need to worry about privacy at all. The app uses official YouTube website to show content so we don't get or store anything related about your personal data.
 
 
-![Screenshot2](https://user-images.githubusercontent.com/79461263/224725126-12af6f0b-8f25-4178-a772-4567419a6445.png)
+[![Screenshot2](https://user-images.githubusercontent.com/79461263/224725126-12af6f0b-8f25-4178-a772-4567419a6445.png)](https://youtu.be/KOfhLHyjvnQ)
 
 
 ## Feedback
