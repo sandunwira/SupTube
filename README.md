@@ -80,3 +80,12 @@ If you have found any bugs in the client or if you have suggestions, please feel
 - [**Email**](mailto:teamsuptube@gmail.com)
 - [**Instagram**](https://instagram.com/suptubeapp)
 - [**Twitter**](https://twitter.com/sandunwira)
+
+<hr>
+
+
+#### SPREAD THE WORD :)
+
+```
+https://github.com/sandunwira/SupTube
+```
