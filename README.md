@@ -53,6 +53,7 @@
 ### SCREENSHOTS
 
 ![Splashscreen](https://user-images.githubusercontent.com/79461263/229338510-f4e31975-de4b-492d-84b6-e3edc3e869ff.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsandunwira%2FSupTube.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsandunwira%2FSupTube?ref=badge_shield)
 **`SPLASHSCREEN`**
 
 
@@ -89,3 +90,7 @@ If you have found any bugs in the client or if you have suggestions, please feel
 ```
 https://github.com/sandunwira/SupTube
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsandunwira%2FSupTube.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsandunwira%2FSupTube?ref=badge_large)
