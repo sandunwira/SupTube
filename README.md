@@ -91,5 +91,5 @@ https://github.com/sandunwira/SupTube
 ```
 
 
-## License
+### LICENSE
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsandunwira%2FSupTube.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsandunwira%2FSupTube?ref=badge_large)
