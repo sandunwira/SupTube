@@ -70,7 +70,6 @@
 ![Screenshot (52)](https://user-images.githubusercontent.com/79461263/229338508-a8490d65-b556-4c0e-9ba9-07d2085d6553.png)
 [**`LINK TO THE VIDEO`**](https://youtu.be/jMb6jkeNOBg)
 
-
 <hr>
 
 
@@ -84,12 +83,14 @@ If you have found any bugs in the client or if you have suggestions, please feel
 <hr>
 
 
+### LICENSE
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsandunwira%2FSupTube.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsandunwira%2FSupTube?ref=badge_large)
+
+<hr>
+
+
 #### SPREAD THE WORD :)
 
 ```
 https://github.com/sandunwira/SupTube
 ```
-
-
-### LICENSE
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsandunwira%2FSupTube.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsandunwira%2FSupTube?ref=badge_large)
