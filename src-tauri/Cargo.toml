@@ -1,7 +1,7 @@
 [package]
 name = "suptube"
-version = "1.4.0"
-description = "An unofficial client for YouTube"
+version = "1.4.1"
+description = "An opensource client for YouTube"
 authors = ["Sandun Wiratunga"]
 license = "MIT"
 repository = "https://github.com/sandunwira/SupTube"
@@ -19,6 +19,7 @@ tauri-bundler = "1.1.2"
 serde = { version = "1.0", features = ["derive"] }
 tauri = { version = "1.2.4", features = ["shell-open", "updater", "window-set-fullscreen", "window-set-resizable"] }
 tauri-plugin-single-instance = { git = "https://github.com/tauri-apps/plugins-workspace", branch = "dev" }
+tauri-plugin-window-state = { git = "https://github.com/tauri-apps/plugins-workspace", branch = "dev" }
 
 [features]
 # by default Tauri runs in production mode

@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "SupTube",
-    "version": "1.4.0"
+    "version": "1.4.1"
   },
   "tauri": {
     "allowlist": {
@@ -91,21 +91,7 @@
         "focus": true,
         "resizable": true,
         "decorations": true,
-        "center": true,
-        "visible": false
-      },
-      {
-        "title": "SupTube",
-        "width": 525,
-        "height": 200,
-        "url": "splashscreen.html",
-        "label": "splashscreen",
-        "fullscreen": false,
-        "focus": true,
-        "resizable": false,
-        "decorations": false,
-        "center": true,
-        "skipTaskbar": false
+        "center": true
       }
     ]
   }
