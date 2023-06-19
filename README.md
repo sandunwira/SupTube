@@ -52,9 +52,6 @@
 
 ### SCREENSHOTS
 
-![Splashscreen](https://user-images.githubusercontent.com/79461263/229338510-f4e31975-de4b-492d-84b6-e3edc3e869ff.png)
-**`SPLASHSCREEN`**
-
 
 ![Screenshot1](https://user-images.githubusercontent.com/79461263/224725038-90fb9859-4f00-440c-bbb9-ea7e49db7d24.png)
 
