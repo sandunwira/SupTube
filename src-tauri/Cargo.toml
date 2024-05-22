@@ -1,6 +1,6 @@
 [package]
 name = "suptube"
-version = "1.5.0"
+version = "1.5.1"
 description = "An opensource client for YouTube"
 authors = ["Sandun Wiratunga"]
 license = "MIT"

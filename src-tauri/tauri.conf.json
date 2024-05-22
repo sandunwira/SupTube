@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "SupTube",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "tauri": {
     "allowlist": {
@@ -37,8 +37,8 @@
         "icons/icon.ico"
       ],
       "identifier": "com.suptube.app",
+      "shortDescription": "SupTube",
       "longDescription": "An opensource client for YouTube",
-      "shortDescription": "An opensource client for YouTube",
       "resources": [],
       "externalBin": [],
       "targets": "all",
